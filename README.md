@@ -16,10 +16,11 @@
 ---
 
 # Project Contributors
-
-    Back-end was done by me.
-    Fornt-end was done by [gamitej]
-    For Front-end repo: [repo]
+---
+Back-end was done by me.
+Fornt-end was done by [gamitej]
+For Front-end repo: [repo]
+---
 
 [gamitej]: https://github.com/gamitej
 [repo]: https://github.com/gamitej/Ecommerce-MERN
