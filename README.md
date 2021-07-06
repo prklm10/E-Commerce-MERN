@@ -18,7 +18,9 @@
 # Project Contributors
 ---
 Back-end was done by me.
-Fornt-end was done by [gamitej]
+</br>
+Fornt-end was done by [gamitej].
+</br>
 For Front-end repo: [repo]
 ---
 
