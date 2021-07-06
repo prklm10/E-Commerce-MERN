@@ -22,7 +22,7 @@ Add your MongoDB database link, username and password and Stripe secret key in [
 ---
 Back-end was done by me.
 </br>
-Fornt-end was done by [gamitej].
+Front-end was done by [gamitej].
 </br>
 For Front-end repo: [repo]
 ---
